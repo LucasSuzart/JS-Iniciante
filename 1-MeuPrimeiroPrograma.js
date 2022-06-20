@@ -1,10 +1,12 @@
-console.log('teste git')
+console.log("Meu Primeiro programa: trabalhando com variáveis");
 
-const idade = 28
-const idade2 = 20
-const soma = idade+idade2
-console.log(soma);
-console.log('idade = ',soma)
+const idade = 26;
 
+console.log("idade");
+console.log(idade);
+console.log(idade+2);
+console.log(idade-2);
+console.log(idade/2);
 
-
+const idadeSomada = idade+2;
+console.log(idadeSomada);
